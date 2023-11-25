@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Fit Flex Challenge",
+    "time": "45 minutes",
+    "img":"img/tra1.jpg",
+    "videoUrl":"https://youtu.be/gIjJTEJ7soQ?si=WU1BXykx54U36glk"
+  },
+  {
+    "title": "Active Zone Pro",
+    "time": "55 minutes",
+    "img":"img/tra2.jpg",
+    "videoUrl":"https://youtu.be/gIjJTEJ7soQ?si=WU1BXykx54U36glk"
+  },
+  {
+    "title": "Power Pulse Workouts",
+    "time": "25 minutes",
+    "img":"img/tra3.jpg",
+    "videoUrl":"https://youtu.be/gIjJTEJ7soQ?si=WU1BXykx54U36glk"
+  },
+  {
+    "title": "Wellness Boost Hub",
+    "time": "30 minutes",
+    "img":"img/tra4.jpg",
+    "videoUrl":"https://youtu.be/gIjJTEJ7soQ?si=WU1BXykx54U36glk"
+  }
+]
+
